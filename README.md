@@ -6,7 +6,7 @@ This document captures **18F's view of API best practices and standards**. We ai
 
 APIs, like other web applications, vary greatly in implementation and design, depending on the situation and the problem the application is solving.
 
-This document provides a mix of:
+This document provides a mix of the following:
 
 * **High level design guidance** that individual APIs interpret to meet their needs.
 * **Low level web practices** that most modern HTTP APIs use.
